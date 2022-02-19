@@ -1,0 +1,24 @@
+﻿@model IEnumerable<ProductViewModel>
+@inject SignInManager<AppUser> SignInManager
+
+@{
+    ViewData["Title"] = "Hem";
+}
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="text-center">
+        <h1 class="display-4">Alla Produkter</h1>
+        <a asp-controller="Cart" asp-action="Index">VaruKorg</a>
+        <partial name="_CardDeck" model="Model" />
+    </div>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Välkommen till Vegan Store</h1>
+        <p>Logga in eller registera för att lägga order samt sök bland kategorier  <a asp-controller="Auth" asp-action="SignUp">Registrera</a>.</p>
+        <partial name="_CardDeck" model="Model" />
+    </div>
+}

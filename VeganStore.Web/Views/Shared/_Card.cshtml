@@ -1,0 +1,26 @@
+﻿@model ProductViewModel
+
+<div class="col-lg-3 col-md-6">
+    <div class="row p-2">
+        <div class="col-12 p-1">
+            <div class="card">
+                <div class="card-body">
+                    <div class="pl-1">
+                        <p class="card-title h5 text-primary">@Model.Name</p>
+                        <p class="card-title text-info">Aritkel Nummer: @Model.ArticleNumber</p>
+                    </div>
+                    <div class="pl-1">
+                        <p> Ordinare Pris: <strike><b>@Model.RegularPrice.ToString("0.00")</strike> kr</b></p>
+                        <p> Pris: <b>@Model.SalePrice.ToString("0.00") kr</b></p>
+                    </div>
+                    <div class="card-footer">
+                        @Model.CategoryName / @Model.SubCategoryName
+                    </div>
+                </div>
+            </div>
+            <div>
+                <a asp-action="Details" class="btn btn-primary form-control" asp-route-productId="@Model.Id">Köp</a>
+            </div>
+        </div>
+    </div>
+</div>

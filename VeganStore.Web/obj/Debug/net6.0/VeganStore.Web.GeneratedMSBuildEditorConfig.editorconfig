@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VeganStore.Web
+build_property.RootNamespace = VeganStore.Web
+build_property.ProjectDir = D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Cart/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxPcmRlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Cart/Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Product/ProductCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/_Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/_CardDeck.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJkRGVjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/User/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxPcmRlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/User/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Downloads/OneDrive/Skrivbord/Skolan/Nackademin/Programmering med ASP .NET 1/Repo/VeganStore/VeganStore.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cap1phmbu8

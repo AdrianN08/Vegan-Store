@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VeganStore.Utility/1.0.0": {
+        "runtime": {
+          "VeganStore.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VeganStore.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

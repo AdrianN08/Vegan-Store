@@ -1,0 +1,53 @@
+﻿@model ShoppingCart
+
+@{
+    ViewData["Title"] = "Produkt Detaljer";
+}
+
+<form asp-controller="Product" asp-action="Details" method="post">
+    <input asp-for="ProductId" hidden />
+    <br/>
+    <div class="card container">
+        <div class="card-header bg-primary text-light ml-0 row ">
+            <div class="col-12 col-md-6">
+                <h1 class="text-white-50">@Model.Product.Name</h1>               
+            </div>
+            <div class="col-12 col-md-6 text-end pt-4">
+                <span class="badge bg-info pt-2" style="height:30px;">@Model.Product.SubCategory.Name</span>   
+            </div>
+        </div>
+        <div class="card-body row container">
+            <div class="container rounded p-2">
+                <div class="row">
+                    <div class="col-8 col-lg-8">
+        
+                        <div class="row pl-2">
+                            <h5 class="text-muted">Artikel Nummer: @Model.Product.ArticleNumber</h5>
+                        </div>
+                        <div class="row pl-2">
+                            <h5 class="text-muted pb-2">Ordinare Pris: <strike>@Model.Product.RegularPrice.ToString("c")</strike></h5>
+                        </div>
+                        <div class="row pl-2">
+                            <h5 class="text-muted pb-2">Price: @Model.Product.SalePrice.ToString("c")</h5>
+                        </div>
+                                
+                        <div class="row pl-2">
+                            <div class="col-2 text-primary"><h4>Antal</h4></div>
+                            <div class="col-10"><input asp-for="Quantity" class="form-control" /></div>
+                        </div>
+                    </div>          
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-12 col-md-6 pb-1">
+                    <a class="btn btn-secondary form-control" asp-action="Index">Hem</a>
+                </div>
+                <div class="col-12 col-md-6 pb-1">
+                    <button type="submit" value="Add to Cart" class="btn btn-primary form-control">Lägg till i Varukorg</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

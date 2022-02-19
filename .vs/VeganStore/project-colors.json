@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2beb3d7d-8691-4bac-9487-99a696019b3c": {
+      "ProjectGuid": "2beb3d7d-8691-4bac-9487-99a696019b3c",
+      "DisplayName": "VeganStore.Web",
+      "ColorIndex": 0
+    },
+    "8bce3075-9c6b-482d-8844-73c8612cfbee": {
+      "ProjectGuid": "8bce3075-9c6b-482d-8844-73c8612cfbee",
+      "DisplayName": "VeganStore.DataAccess",
+      "ColorIndex": 1
+    },
+    "a9c9e60a-e167-4564-a063-ffed6e650645": {
+      "ProjectGuid": "a9c9e60a-e167-4564-a063-ffed6e650645",
+      "DisplayName": "VeganStore.Models",
+      "ColorIndex": 2
+    },
+    "acc36b81-951d-4fd6-a8c7-0e79905d6e99": {
+      "ProjectGuid": "acc36b81-951d-4fd6-a8c7-0e79905d6e99",
+      "DisplayName": "VeganStore.Web.API",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "55b68a6e-3711-4562-a070-369246d8736f": {
+      "ProjectGuid": "55b68a6e-3711-4562-a070-369246d8736f",
+      "DisplayName": "VeganStore.Utility",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

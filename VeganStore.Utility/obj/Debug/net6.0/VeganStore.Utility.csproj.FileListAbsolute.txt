@@ -1,0 +1,12 @@
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\bin\Debug\net6.0\VeganStore.Utility.deps.json
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\bin\Debug\net6.0\VeganStore.Utility.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\bin\Debug\net6.0\VeganStore.Utility.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.AssemblyInfo.cs
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\ref\VeganStore.Utility.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\VeganStore.Utility.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Utility\obj\Debug\net6.0\refint\VeganStore.Utility.dll

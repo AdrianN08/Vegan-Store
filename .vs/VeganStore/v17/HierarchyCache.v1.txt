@@ -1,0 +1,342 @@
+﻿++Solution 'VeganStore' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:VeganStore.sln
+++VeganStore.Web
+i:{00000000-0000-0000-0000-000000000000}:VeganStore.Web
+++Connected Services 
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2288
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2289
+++Dependencies
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2286
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:>1240
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2287
+i:{55b68a6e-3711-4562-a070-369246d8736f}:>1239
+++Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:analyzers
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:analyzers
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:analyzers
+i:{55b68a6e-3711-4562-a070-369246d8736f}:analyzers
+++Frameworks
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:frameworks
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:frameworks
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:frameworks
+i:{55b68a6e-3711-4562-a070-369246d8736f}:frameworks
+++Packages
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:packages
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:packages
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:packages
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2991
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2990
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2988
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>3002
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>3003
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2989
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:>2992
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2993
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2987
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:>2994
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2995
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2996
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2997
+++Stripe.net (39.91.0)
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>4672
+++Projects
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:projects
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:projects
+++Properties
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\properties\
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\properties\
+++launchSettings.json
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\properties\launchsettings.json
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\properties\launchsettings.json
+++wwwroot
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\
+++css
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\css\
+++images
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\images\
+++lov.jpg
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\images\lov.jpg
+++js
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\js\
+++favicon.ico
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\favicon.ico
+++Controllers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\controllers\
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\
+++AuthController.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\controllers\authcontroller.cs
+++CartController.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\controllers\cartcontroller.cs
+++ProductController.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\controllers\productcontroller.cs
+++Migrations
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\migrations\
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\
+++Models
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\
+++ViewModels
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\viewmodels\
+++ErrorViewModel.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\viewmodels\errorviewmodel.cs
+++SignInViewModel.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\viewmodels\signinviewmodel.cs
+++SignUpViewModel.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\viewmodels\signupviewmodel.cs
+++AppDbContext.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\appdbcontext.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\data\appdbcontext.cs
+++AppUser.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\models\appuser.cs
+++Views
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\
+++Auth
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\auth\
+++SignIn.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\auth\signin.cshtml
+++SignUp.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\auth\signup.cshtml
+++Cart
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\cart\
+++Index.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\cart\index.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\product\index.cshtml
+++OrderConfirmation.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\cart\orderconfirmation.cshtml
+++Summary.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\cart\summary.cshtml
+++Product
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\product\
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\product\
+++Details.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\product\details.cshtml
+++ProductCategory.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\product\productcategory.cshtml
+++Shared
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\
+++_Card.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_card.cshtml
+++_CardDeck.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_carddeck.cshtml
+++_Layout.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_layout.cshtml
+++_NavbarPartial.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_navbarpartial.cshtml
+++_Notification.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_notification.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\_viewstart.cshtml
+++appsettings.json
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\appsettings.json
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\appsettings.json
+++libman.json
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\libman.json
+++Program.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\program.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\program.cs
+++No service dependencies discovered
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:>2290
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2291
+++MessagePackAnalyzer
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\users\adria\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\users\adria\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\users\adria\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\users\adria\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\users\adria\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\users\adria\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{55b68a6e-3711-4562-a070-369246d8736f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{55b68a6e-3711-4562-a070-369246d8736f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\users\adria\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.1.22076.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:c:\users\adria\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\users\adria\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:c:\users\adria\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{55b68a6e-3711-4562-a070-369246d8736f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\microsoft.aspnetcore.app
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\microsoft.netcore.app
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\microsoft.netcore.app
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\microsoft.netcore.app
+i:{55b68a6e-3711-4562-a070-369246d8736f}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.utility\microsoft.netcore.app
+++VeganStore.Models
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\bin\debug\net6.0\veganstore.models.dll
+i:{00000000-0000-0000-0000-000000000000}:VeganStore.Models
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\bin\debug\net6.0\veganstore.models.dll
+++VeganStore.Utility
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.utility\bin\debug\net6.0\veganstore.utility.dll
+i:{00000000-0000-0000-0000-000000000000}:VeganStore.Utility
+++site.css
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\css\site.css
+++Theme.css
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\css\theme.css
+++site.js
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\wwwroot\js\site.js
+++20220215231523_Identity.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\migrations\20220215231523_identity.cs
+++AppDbContextModelSnapshot.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\migrations\appdbcontextmodelsnapshot.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\appdbcontextmodelsnapshot.cs
+++_Layout.cshtml.css
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\appsettings.development.json
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\appsettings.development.json
+++20220215231523_Identity.Designer.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\migrations\20220215231523_identity.designer.cs
+++Category
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\category\
+++Entities
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\
+++Category.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\category.cs
+++Order.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\order.cs
+++OrderDetail.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\orderdetail.cs
+++Product.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\product.cs
+++ShoppingCart.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\shoppingcart.cs
+++SubCategory.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\entities\subcategory.cs
+++OrderDetail
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\orderdetail\
+++ShoppingCart
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\shoppingcart\
+++ShoppingCartModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\shoppingcart\shoppingcartmodel.cs
+++ShoppingCartViewModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\shoppingcart\shoppingcartviewmodel.cs
+++SubCategory
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\subcategory\
+++CategoryModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\category\categorymodel.cs
+++CategoryViewModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\category\categoryviewmodel.cs
+++ProductCartViewModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\product\productcartviewmodel.cs
+++ProductCreateModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\product\productcreatemodel.cs
+++ProductModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\product\productmodel.cs
+++ProductViewModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\product\productviewmodel.cs
+++SubCategoryModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\subcategory\subcategorymodel.cs
+++SubCategoryViewModel.cs
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.models\subcategory\subcategoryviewmodel.cs
+++Microsoft.AspNetCore.Mvc.ViewFeatures (2.2.0)
+i:{a9c9e60a-e167-4564-a063-ffed6e650645}:>2309
+++VeganStore.Web.API
+i:{00000000-0000-0000-0000-000000000000}:VeganStore.Web.API
+++CategoriesController.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\categoriescontroller.cs
+++OrderDetailsController.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\orderdetailscontroller.cs
+++OrdersController.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\orderscontroller.cs
+++ProductsController.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\productscontroller.cs
+++ShoppingCartsController.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\shoppingcartscontroller.cs
+++SubCategoriesController.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\controllers\subcategoriescontroller.cs
+++Data
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\data\
+++Filters
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\filters\
+++20220215224808_init.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220215224808_init.cs
+++20220216090456_ShoppingCart.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220216090456_shoppingcart.cs
+++20220217185245_OrderAndOrderDetails.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220217185245_orderandorderdetails.cs
+++20220218200413_SessionAndPaymentIdToOrder.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220218200413_sessionandpaymentidtoorder.cs
+++Repository
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\
+++CategoryService.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\categoryservice.cs
+++IAsyncRepository.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\iasyncrepository.cs
+++OrderDetailService.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\orderdetailservice.cs
+++OrderService.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\orderservice.cs
+++ProductService.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\productservice.cs
+++ShoppingCartService.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\shoppingcartservice.cs
+++SubCategoryService.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\repository\subcategoryservice.cs
+++ApiKeyAuthAttribute.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\filters\apikeyauthattribute.cs
+++20220215224808_init.Designer.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220215224808_init.designer.cs
+++20220216090456_ShoppingCart.Designer.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220216090456_shoppingcart.designer.cs
+++20220217185245_OrderAndOrderDetails.Designer.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220217185245_orderandorderdetails.designer.cs
+++20220218200413_SessionAndPaymentIdToOrder.Designer.cs
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web.api\migrations\20220218200413_sessionandpaymentidtoorder.designer.cs
+++Swashbuckle.AspNetCore (6.2.3)
+i:{acc36b81-951d-4fd6-a8c7-0e79905d6e99}:>2363
+++SD.cs
+i:{55b68a6e-3711-4562-a070-369246d8736f}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.utility\sd.cs
+++StripeSettings.cs
+i:{55b68a6e-3711-4562-a070-369246d8736f}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.utility\stripesettings.cs
+++UserController.cs
+i:{2beb3d7d-8691-4bac-9487-99a696019b3c}:d:\downloads\onedrive\skrivbord\skolan\nackademin\programmering med asp .net 1\repo\veganstore\veganstore.web\controllers\usercontroller.cs
+++eluicijw.gqr~

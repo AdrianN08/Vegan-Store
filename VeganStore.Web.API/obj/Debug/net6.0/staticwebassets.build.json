@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/an00aU7W59DqSlgVGDOeKn6HSieqfQf7iFFwt11rAU=",
+  "Source": "VeganStore.Web.API",
+  "BasePath": "_content/VeganStore.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

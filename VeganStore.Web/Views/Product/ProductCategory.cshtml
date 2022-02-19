@@ -1,0 +1,20 @@
+﻿@model IEnumerable<ProductViewModel>
+
+@{
+    ViewData["Title"] = "Kategorier";
+}
+
+<div class="m-3">
+    <form asp-controller="Product" asp-action="ProductCategory" method="post">
+        <input value="@Context.Request.Query["category"]" name="category" hidden />
+        <select asp-items="ViewBag.SubCategoryName" name="subCategory" class="form-control">
+            <option disabled selected>--Välj Under Kategori--</option>
+        </select><br />
+        <input type="submit" value="Filtrera" class="btn btn-primary" />
+        <input type="submit" value="Rensa" class="btn btn-secondary" />
+    </form>
+</div>
+<hr />
+<div class="text-center">
+    <partial name="_CardDeck" model="Model" />
+</div>

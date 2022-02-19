@@ -1,0 +1,14 @@
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\bin\Debug\net6.0\VeganStore.Models.deps.json
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\bin\Debug\net6.0\VeganStore.Models.runtimeconfig.json
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\bin\Debug\net6.0\VeganStore.Models.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\bin\Debug\net6.0\VeganStore.Models.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.AssemblyInfo.cs
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\ref\VeganStore.Models.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.genruntimeconfig.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\VeganStore.Models.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.Models\obj\Debug\net6.0\refint\VeganStore.Models.dll

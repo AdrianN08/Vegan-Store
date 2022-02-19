@@ -1,0 +1,76 @@
+﻿@model ShoppingCartViewModel
+
+@{
+    ViewData["Title"] = "Varukorg";
+}
+
+<form method="post">
+    <br />
+    <div class="container">
+        <div class="card">
+            <div class="card-header bg-primary text-light ml-0">
+                <div class="row">
+                    <div class="col-6  pt-2">
+                        <i class="bi bi-cart4"></i> &nbsp;Varukorg
+                    </div>
+                    <div class="col-6 text-end">
+                        <a asp-controller="Product" asp-action="Index" class="btn btn-secondary btn-sm">Fortsätt Shoppa</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class=" card-body">
+                @foreach(var item in Model.Carts){
+                <div class="row">
+                    <div class="col-12 col-lg-6 pt-md-3">
+                        <h5><strong>@item.Product.Name</strong></h5>
+                        <p><small>Artikelnummer: @item.Product.ArticleNumber</small></p>
+                    </div>
+                    <div class="col-12  col-lg-6 text-center row">
+                        <div class="col-4 text-md-right pt-4">
+                            <h6>
+                                <strong>@item.Product.SalePrice.ToString("c")<span class="text-muted">&nbsp;x&nbsp;</span>@item.Quantity </strong>
+                            </h6>
+                        </div>
+                        <div class="col-6 col-sm-4 col-lg-6 pt-2">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-action="minus" asp-route-cartId="@item.Id" class="btn btn-warning">
+                                    <i class="bi bi-dash-square"></i>
+                                </a>
+                                <a asp-action="plus" asp-route-cartId="@item.Id" class="btn btn-primary">
+                                    <i class="bi bi-plus-square"></i>
+                                </a> &nbsp;                               
+                            </div>
+                        </div>
+                        <div class="col-2 col-sm-4 col-lg-2 text-right pt-2">
+                            <a asp-action="remove" asp-route-cartId="@item.Id" class="btn btn-danger">
+                                <i class="bi bi-trash-fill"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                }
+                <div class="row">
+                    <div class="col-12 col-md-6 offset-md-6 col-lg-4 offset-lg-8 pr-4">
+                        <ul class="list-group">
+                            <li class="list-group-item d-flex justify-content-between bg-light">
+                                <span class="text-info"> Totalt (SEK)</span>
+                                <strong class="text-info">@Model.Order.OrderTotal.ToString("c")</strong>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="card-footer">
+                <div class="card-footer row">
+                    <div class="col-sm-12 col-lg-4 col-md-6 offset-lg-8 offset-md-6 ">
+                        <a asp-action="Summary" class="btn btn-success form-control">Till Order</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

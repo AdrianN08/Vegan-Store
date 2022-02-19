@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ProductViewModel>
+
+<div class="container mt-5">
+    <div class="row pb-3">
+        @foreach (var item in Model)
+        {
+            <partial name="_Card" model="item"/>
+        }
+    </div>
+</div>
+
+
+

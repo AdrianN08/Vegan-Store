@@ -1,0 +1,17 @@
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\VeganStore.DataAccess.deps.json
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\VeganStore.DataAccess.runtimeconfig.json
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\VeganStore.DataAccess.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\ref\VeganStore.DataAccess.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\VeganStore.DataAccess.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\VeganStore.Models.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\bin\Debug\net6.0\VeganStore.Models.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.AssemblyInfo.cs
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.csproj.CopyComplete
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\ref\VeganStore.DataAccess.dll
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.pdb
+D:\Downloads\OneDrive\Skrivbord\Skolan\Nackademin\Programmering med ASP .NET 1\Repo\VeganStore\VeganStore.DataAccess\obj\Debug\net6.0\VeganStore.DataAccess.genruntimeconfig.cache
